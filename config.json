@@ -1,6 +1,6 @@
 {
-	"ip":"NinPixel.aternos.me",
-	"port": "25565",
+	"ip":"NinPixel.aternos.me:23179",
+	"port": "23179",
 	"name": "24by7Botto",
 	"auto-night-skip":"true"
 }
